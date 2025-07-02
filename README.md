@@ -108,7 +108,7 @@ Me chamo Luiz Carlos Junior, tenho 26 anos e sou natural de Salvador. Atualmente
     src="https://github-readme-stats.vercel.app/api?username=luizcarlos337&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizcarlos337&layout=compact&theme=dark&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlos337&layout=compact&theme=dark&langs_count=6&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
